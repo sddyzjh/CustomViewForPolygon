@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App002</string>
+    <string name="hint">请输入边数...</string>
+</resources>
